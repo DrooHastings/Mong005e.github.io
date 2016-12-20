@@ -1,11 +1,15 @@
 .Container{
-  Background-color: #795548;
+  Background-color: #BCAAA4;
+  height: 100%;
+  width: 100%;
+  border-width: 10px;
 }
 
 
 
 .content-contact{
 font-family: 'Abril Fatface', cursive;
+font-size: 16px;
 color: red;
 
 }
