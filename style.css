@@ -20,17 +20,14 @@ color:rgba(61,59,54,.5);
 }
 
 .content-Education{
- display: block;
- float: right;
- position: relative;
- height: 30px;
- width: 10px;
+ margin: 0;
+ float: left;
+ width: 50%;
 }
 
 .content-headshot {
- display: block;
- float:left; 
- height: 30px%;
- width: 30%;  
- background-color: red;
+float:left;
+width:25%;
+overflow:hidden;
+background-color: red;
 }
