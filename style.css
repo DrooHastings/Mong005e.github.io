@@ -1,3 +1,8 @@
+ margin-top: 0px;
+ margin-right: 0px;
+ margin-bottom: 0px;
+ margin-left: 0px
+
 .Container{
   Background-color: rgb(206, 203, 192);
   background-size: 100%;
@@ -6,10 +11,7 @@
   border-style: none;
   font-family: 'Abril Fatface', cursive;
  
-  margin-top: 0px;
-  margin-right: 0px;
-  margin-bottom: 0px;
-  margin-left: 0px
+
 }
 
 
