@@ -3,37 +3,59 @@
  margin-right: 0px;
  margin-bottom: 0px;
  margin-left: 0px;
+ font: 16px Helvetica, Sans-Serif; 
 } 
 
-.Container{
-  Background-color: rgb(206, 203, 192);
-  background-size: 100%;
-  height: 100%;
-  width: 100%;
-  border-style: none;
-  font-family: 'Abril Fatface', cursive;
-  padding: 5px; 
 
+
+#pic {
+	float: right;
 }
 
+/*#button {
+	margin-left: 40%;
+	margin-right: 40%;
+	background-color: #213862;*/
 
-
-.content-contact{
-position: relative;
-text-align: center;
-height: 40px%;
-width: 100%;
-border: none;  
-
-font-size: 16px;
-color:rgba(61,59,54,.5);
+	border-radius: 15px;
+	height: 100px;
 }
 
-.content-Education{
-  width: 15%;
-    height: 200px;
-    background: red;
-    float: left;
+#container {
+	width: 800px;
+	margin: 40px auto 60px;
 }
 
+#content-contact {
+	margin: 0 0 16px 0;
+	padding: 0 0 16px 0;
+	font-size: 42px;
+	font-weight: bold;
+	letter-spacing: -2px;
+	border-bottom: 1px solid #999;
+}
 
+/*#content-summarycontent {
+	margin: 0 0 16px 0;
+	padding: 0 0 32px 0;
+
+	font-style: italic;
+	font-size: 20px;
+}*/
+
+#content-professionalheader {
+	font-size: 28px;
+}
+
+/*.date {
+	float: right;
+}
+
+h3 {
+	border-bottom: 1px solid #999;
+}
+
+h4{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
