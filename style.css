@@ -23,11 +23,12 @@ color:rgba(61,59,54,.5);
  margin: 0;
  float: left;
  width: 50%;
+ overflow:hidden; 
 }
 
 .content-headshot {
 float:left;
-width:25%;
+width:50%;
 overflow:hidden;
 background-color: red;
 }
