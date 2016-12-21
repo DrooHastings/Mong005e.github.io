@@ -20,15 +20,14 @@ color:rgba(61,59,54,.5);
 }
 
 .content-Education{
- margin: 0;
- float: left;
- width: 50%;
- overflow:hidden; 
+  width: 15%;
+    height: 200px;
+    background: red;
+    float: left;
 }
 
 .content-headshot {
-float:left;
-width:50%;
-overflow:hidden;
-background-color: red;
+margin-left: 15%;
+    height: 200px;
+    background: black;
 }
