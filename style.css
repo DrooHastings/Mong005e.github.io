@@ -1,6 +1,7 @@
 .Container{
   Background-image: url("Mong005e.github.io/texture_background.jpg");
   background-repeat:no-repeat;
+  background-size: 100%;
   height: 100%;
   width: 100%;
   border-style: hidden;
