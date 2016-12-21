@@ -4,13 +4,14 @@
  margin-bottom: 0px;
  margin-left: 0px;
  font: 16px Helvetica, Sans-Serif; 
+ padding: 30px;	 
 } 
 
 
 
 #pic {
 	float: right;
-	border: solid;
+	
 }
 
 /*#button {
