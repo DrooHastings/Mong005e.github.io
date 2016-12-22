@@ -5,11 +5,8 @@
  margin-left: 0px;
  font: 16px Helvetica, Sans-Serif; 
  padding: 30px;	 
- 	
  background-size: cover;
-  background: #eb01a5;
-  background-image: url("Mong005e.github.io/186H.jpg");  /* fallback */
-  background-image: url("IMAGE_URL"), linear-gradient(#eb01a5, #d13531); /* W3C */	 
+ background: #eb01a5;
  color:#3064b2;
  float: right;	 
 } 
@@ -32,12 +29,12 @@
 	margin: 40px auto 60px;
 }
 
-#content-contact {
+#contact {
 	margin: 0 0 16px 0;
 	padding: 0 0 16px 0;
 	font-size: 42px;
 	font-weight: bold;
-	letter-spacing: -2px;
+	letter-spacing: 1px;
 	border-bottom: 1px solid #999;
 }
 
@@ -49,7 +46,7 @@
 	font-size: 20px;
 }*/
 
-#content-professionalheader {
+#professionalheader {
 	font-size: 28px;
 }
 
