@@ -14,6 +14,10 @@ h1,h2,h3,h4,h5,h6,h7,h8,h9,h10{
 	font-size: 30px;
 }
 
+h10 {
+	text-align: center'
+}
+
 p{
 	font-size: 16px;
 }
