@@ -7,7 +7,7 @@
  padding: 30px;	 
  background-size: cover;
  background: #423e31;
- color:#3064b2;
+ color:#999;
 } 
 
 
@@ -22,16 +22,16 @@
 }
 
 #container {
-	width: 800px;
-	margin: 40px auto 60px;
+	width: 100%;
+	margin: 0 0 16px 0;
+	padding: 0 0 16px 0;
 }
 
 
 #contact {
 	margin: 0 0 16px 0;
 	padding: 0 0 16px 0;
-	font-size: 42px;
-	font-weight: bold;
+	font-size: 20px;
 	letter-spacing: 1px;
 	border-bottom: 1px solid #999;
 }
