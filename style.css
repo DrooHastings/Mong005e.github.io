@@ -24,9 +24,10 @@ p{
 
 #container {
 	width: 100%;
-	margin: 40px 40px 16px 40px;
+	margin: 0 0 16px 0;
 	padding: 0 0 16px 0;
 	text-align: left;
+	padding: 0 40px 0 40px;
 	
 	
 }
