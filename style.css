@@ -11,7 +11,7 @@
 } 
 
 h1,h2,h3,h4,h5,h6,h7,h8,h9,h10{
-	font-size: 30px;
+	font-size: 24px;
 }
 
 h10 {
@@ -32,6 +32,9 @@ p{
 	
 }
 
+#contact-header {
+	font-size: 40px;	
+}	
 
 #contact {
 	text-align: center;
@@ -48,6 +51,7 @@ p{
 	font-size: 30px;
 	text-align: center;
 	margin: 0 0 16px 0;
+	border-top: 1px soldid #999;
 }
 
 #hendricksen-header {
@@ -58,16 +62,12 @@ p{
 }
 
 #hendricksen {
-	
+border-top: 1px solid #999;	
 }	
 
 #sneaker-header {
 	border-top: 1px solid #999;
 	text-align: center;
-}
-
-#sneaker {
-	
 }
 
 #education-header {
@@ -76,7 +76,6 @@ p{
 }
 
 #education {
-	
 }
 
 
